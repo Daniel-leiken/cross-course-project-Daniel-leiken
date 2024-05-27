@@ -47,30 +47,23 @@ Contributions are what make the open-source community such an amazing place to l
 
 To contribute to this project, follow these steps:
 
-1.
-Fork the Project: Click on the "Fork" button at the top of the repository page to create a copy of the repository on your GitHub account.
+1. Fork the Project: Click on the "Fork" button at the top of the repository page to create a copy of the repository on your GitHub account.
 
-2.
-Clone the Forked Repository: Clone your forked repository to your local machine:
+2. Clone the Forked Repository: Clone your forked repository to your local machine:
 git clone https://github.com/your-username/wordpress-product-fetcher.git
 
-3.
-Create a New Branch: Create a new branch for your feature or bugfix:
+3. Create a New Branch: Create a new branch for your feature or bugfix:
 git checkout -b feature/YourFeatureName
 
-4.
-Make Your Changes: Implement your feature or fix the bug.
+4. Make Your Changes: Implement your feature or fix the bug.
 
-5.
-Commit Your Changes: Commit your changes with a meaningful commit message:
+5. Commit Your Changes: Commit your changes with a meaningful commit message:
 git commit -m 'Add feature: YourFeatureName'
 
-6.
-Push to Your Branch: Push your changes to your forked repository:
+6. Push to Your Branch: Push your changes to your forked repository:
 git push origin feature/YourFeatureName
 
-7.
-Open a Pull Request: Open a pull request to merge your changes into the main repository. Provide a detailed description of your changes and any additional context that may be useful for the reviewers.
+7. Open a Pull Request: Open a pull request to merge your changes into the main repository. Provide a detailed description of your changes and any additional context that may be useful for the reviewers.
 
 ## Guidelines
 
